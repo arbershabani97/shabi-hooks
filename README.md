@@ -1,5 +1,10 @@
   # shabi-hooks
 
+> **Deprecated and no longer maintained (September 2026).**
+> This project is retained for historical reference. No new features, bug fixes,
+> security updates, or compatibility updates are planned. Do not adopt it for
+> new projects. Existing code, releases, and documentation remain available.
+
   > Helper Hooks to simplify code!
 
   [![NPM](https://img.shields.io/npm/v/shabi-hooks.svg)](https://www.npmjs.com/package/shabi-hooks) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
